@@ -1682,7 +1682,7 @@ struct runqueue (每个CPU一个)
 
 
 
-![image-20260627171319232](../../../../AppData/Roaming/Typora/typora-user-images/image-20260627171319232.png)
+![image-20260627171319232](https://raw.githubusercontent.com/hibecho/my-images/main/image-20260627171319232.png)
 
 
 
